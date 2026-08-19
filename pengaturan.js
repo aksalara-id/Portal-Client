@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "AKSALARA",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
-    whatsappAdmin: "62821000000000" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
+    googleApiKey: "AIzaSyAMrAqhNonRVOGg9Syjk9YNCnvm9dW5k3k",
+    whatsappAdmin: "6281528275295" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
